@@ -2,8 +2,8 @@
 
 ## Sobre mim
 
-- 🤔 Explorando novas tecnologias e desenvolvendo Websites / Softwares / Games ...
-- 💼 Trabalhando como Game Dev. e CTO na Diamond Softworks.
+- 🤔 Explorando novas tecnologias e desenvolvendo Websites, Softwares, Games...
+- 💼 Trabalhando como Game Developer e CTO na Diamond Softworks.
 - 🌱 Aprendendo mais sobre Rust.
 
 ## Minhas Skills
