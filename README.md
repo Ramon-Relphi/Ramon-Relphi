@@ -1,11 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=Ramon-Relphi&color=006bed)
 
-## Sobre mim
-
-- 🤔 Explorando novas tecnologias e desenvolvendo Websites, Softwares, Games...
-- 💼 Trabalhando como Game Developer e CTO na Diamond Softworks.
-- 🌱 Aprendendo mais sobre GO.
-
 ## Minhas Skills
 
 **Aplicações e dados**
