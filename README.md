@@ -26,14 +26,6 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-**Ferramentas de desenvolvimento**
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=BC00FF)
-![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-333333?style=flat&logo=sublime-text&logoColor=FFA200)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=2596be)
-![Penpot](https://img.shields.io/badge/-Penpot-333333?style=flat&logo=penpot&logoColor=ffffff)
-
 <br/>
 
 <a href="https://github.com/Ramon-Relphi" title="Perfil do Iuri">
